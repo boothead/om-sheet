@@ -12,4 +12,5 @@ Resources/prior art
 -------------------
 
 http://square.github.io/crossfilter/
+
 http://ifandelse.com/using-reactjs-and-kendoui-together/
